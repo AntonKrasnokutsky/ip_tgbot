@@ -1,0 +1,2 @@
+flake8==5.0.4
+pyTelegramBotAPI==4.7.0
